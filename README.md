@@ -5,7 +5,7 @@ This is a Netflix-inspired clone built with React and Vite that demonstrates a m
 
 Live demo
 
-- Live: netflix-clone-752mqgfvv-rakib-hassan-nayems-projects.vercel.app
+- Live: https://netflix-clone-752mqgfvv-rakib-hassan-nayems-projects.vercel.app/
 
 Description
 
